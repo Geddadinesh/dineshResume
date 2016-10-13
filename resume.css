@@ -1,0 +1,74 @@
+
+<head><title>Resume</title>
+<style type="text/css">
+*{
+padding:auto;
+margin:auto;
+color:black;
+}
+h3
+{
+     font-family: times new romen;
+     font-size: 20pt; 
+     font-style: normal; 
+     font-weight: bold;
+     color:black;
+     text-align: center;
+     text-decoration: underline
+ }
+.flex-container {
+    display: flex;
+     width: 1000px;
+    height: 2380px;
+    background-color: yellow;
+   align:center;
+}
+.flex-item {
+    padding:30px;
+    background-color: white;
+    width: 1800px;
+    height:2600px;
+    margin: 10px;
+}
+.left {
+    
+    width: 40%;
+    border: 3px solid white;
+    padding: 0px;
+font-size:15px;
+    background-color:red;
+   color:white;
+}
+address
+{
+   display:block;
+   font-style:italic;
+}
+table
+{
+     width:100%;
+     font-size:17pt;
+     border-color:white;
+}
+tr
+{	
+     height:40px;
+}
+td
+{
+    text-align: center;
+}
+li
+{
+   font-size:25px;
+ } 
+.divv
+{
+  font-size:22px;
+  text-decoration:underline;
+}
+body{
+ font-size:22px;
+}
+</style></head>
+<body><br>
